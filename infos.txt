@@ -1,0 +1,45 @@
+- - - Quem irá acessar o site? - - -
+	Adolescentes, Rappers
+
+- - - Qual será a mensagem passada? - - -
+	Mostrar seus produtos à venda e trazer um local mais "íntimo" a essas pessoas que curtem esta cultura.
+ 
+- - - Como (ou por quem) serão feitas as futuras atualizações neste site? - - -
+	Os donos do mesmo (ou futuros funcionários).
+	
+- - - Como ele irá verificar quantas visitas recebe no site? - - -
+	Utilizando uma ferramenta disponibilizada pelo Google, chamada Google Analytics
+	
+- - - Quais páginas mantém o visitante atento ao site? - - -
+	A loja
+
+- - - Ele precisa de uma “Ferrari” para começar? - - -
+	Não, nossos preços estão de acordo com a "patente" de nossos produtos.
+
+- - - Será que o site é mesmo fundamental? - - -
+	Com a evolução tecnológica, hoje em dia todos os jovens possuem um aparelho celular e/ou computador. Além do fato de não termos um ponto físico.
+
+- - - E, principalmente, como ele irá atrair visitantes para este site? - - -
+	Trabalho profissional de marketeiros 
+
+	
+[ x ] Possui painel de controle
+[   ] "Garantia" de serviço da empresa
+[   ] A hospedagem está incluída?
+
+- - - Como será feita a auditoria das visitas - - -
+	Através de análise comportamental dos usuários utilizando uma ferramenta disponibilizada pelo Google;
+
+
+
+
+
+
+
+
+
+
+
+- - - Ao fim - - -
+Utilizar ferramentas de medição de performance
+1. Google PageSpeed Insights	
