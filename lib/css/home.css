@@ -1,0 +1,8 @@
+body{background: url("../images/bg.jpg") no-repeat center center fixed; background-size: cover; /*Css padrão*/ -webkit-background-size: cover; /*Css safari e chrome*/ -moz-background-size: cover; /*Css firefox*/ -ms-background-size: cover; /*Css IE */ -o-background-size: cover; /*Css Opera*/}
+header{width: 250px; margin: 25px 5px}
+header *{max-width: 250px}
+
+header nav{background: none; box-shadow: none;}
+header nav ul li{float: none; display: block; text-align: center; width: 100%; line-height: 3.5em}
+header nav ul li a{color: #868686; font-size: 1.20em; transition: 0.4s;}
+header nav ul li a:hover{background: none; color: #fff; text-shadow: #fff 0px 0px 4px; transform: scale(1.1);}
