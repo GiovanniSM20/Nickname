@@ -6,6 +6,7 @@
 
     <link rel="stylesheet" href="lib/css/materialize.min.css" />
     <!--<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">-->
+    <link rel="stylesheet" href="lib/css/geral.css" />
     <link rel="stylesheet" href="lib/css/home.css" />
   </head>
   <body>
@@ -17,12 +18,11 @@
           <li><a href='shop'>Shop</a></li>
           <li><a href='contact'>Contato</a></li>
           <li><a href='about'>Sobre</a></li>
-
         </ul>
       </nav>
     </header>
 
     <script src="lib/js/jquery.js"></script>
-    <script src="lib/js/home.js"></script>
+    <script src="lib/js/scripts.js"></script>
   </body>
 </html>
