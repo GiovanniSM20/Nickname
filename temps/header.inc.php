@@ -1,5 +1,6 @@
 <header>
-  <img src="lib/images/nickname.png" />
+  <a href="home">
+  <img src="lib/images/nickname.png" /></a>
   <nav>
     <ul>
       <li><a href='/'>Home</a></li>

@@ -2,3 +2,19 @@ header{
   margin-left: 0;
   float: left;
 }
+#content{
+  position: relative;
+}
+form{
+    left: 50%;
+    transform: translate(-50%);
+    position: absolute;
+    width: 90%;
+    text-align: center;
+}
+.row .col.s6 {
+    width: 90%;
+}
+.row{
+width: 90%
+}

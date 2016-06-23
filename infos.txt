@@ -43,3 +43,7 @@
 - - - Ao fim - - -
 Utilizar ferramentas de medição de performance
 1. Google PageSpeed Insights	
+
+
+— — - Performance Web - - -
+https://www.espacodoprogramador.com.br/performance-web/
