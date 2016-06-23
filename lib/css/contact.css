@@ -1,7 +1,9 @@
-header{
+body{background: #fff}
+header {
   margin-left: 0;
   float: left;
 }
+
 #content{
   position: relative;
 }

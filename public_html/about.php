@@ -2,6 +2,8 @@
 <html lang="pt-BR">
   <head>
     <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Nickname - Sobre</title>
 
     <link rel="stylesheet" href="lib/css/materialize.min.css" />
@@ -10,17 +12,7 @@
     <link rel="stylesheet" href="lib/css/about.css" />
   </head>
   <body>
-    <header>
-      <img src="lib/images/nickname.png" />
-      <nav>
-        <ul>
-          <li><a href='/'>Home</a></li>
-          <li><a href='shop'>Shop</a></li>
-          <li><a href='contact'>Contato</a></li>
-          <li><a href='about' class="active">Sobre</a></li>
-        </ul>
-      </nav>
-    </header>
+    <?=get_header()?>
     <div id="main">
       <h1 id="section-title">Sobre</h1>
       <div id="content">

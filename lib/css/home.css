@@ -1,24 +1,35 @@
-aside div.pop_float{
+aside div.pop_float {
   right: 10px;
   top: 20px;
   position: absolute;
   background: #fff;
   padding: 10px;
+  -webkit-border-radius: 2px 2px 0px 0px;
+  -moz-border-radius: 2px 2px 0px 0px;
+  -ms-border-radius: 2px 2px 0px 0px;
+  -o-border-radius: 2px 2px 0px 0px;
   border-radius: 2px 2px 0px 0px;
   display: inline-block;
 }
-aside div.row-top{
+
+aside div.row-top {
   padding-bottom: 10px;
-border-bottom: solid 1px #cacaca;
-margin-bottom: 10px;
+  border-bottom: solid 1px #cacaca;
+  margin-bottom: 10px;
 }
-aside header{
-  margin: 0
+
+aside header {
+  margin: 0;
 }
-aside span.close_popups{
+
+aside span.close_popups {
   position: absolute;
   font-size: 0.7em;
   padding: 5px;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  -ms-border-radius: 100%;
+  -o-border-radius: 100%;
   border-radius: 100%;
   color: #272727;
   right: 7px;
