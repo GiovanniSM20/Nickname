@@ -10,17 +10,7 @@
     <link rel="stylesheet" href="lib/css/contact.css" />
   </head>
   <body>
-    <header>
-      <img src="lib/images/nickname.png" />
-      <nav>
-        <ul>
-          <li><a href='/'>Home</a></li>
-          <li><a href='shop'>Shop</a></li>
-          <li><a href='contact' class="active">Contato</a></li>
-          <li><a href='about'>Sobre</a></li>
-        </ul>
-      </nav>
-    </header>
+    <?=get_header() ?>
     <div id="main">
       <h1 id="section-title">Contato</h1>
       <div id="content">
