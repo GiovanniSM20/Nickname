@@ -16,7 +16,7 @@ body {
   -ms-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  /*Css padr�o*/
+  /*Css padr?o*/
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -ms-background-size: cover;
@@ -59,11 +59,19 @@ header * {
   max-width: 182px;
 }
 
-header img {
-  width: 70%;
-  margin: 10px;
+div#logo_relogio img {
   display: block;
   margin: 10px auto;
+  height: 25px
+}
+div#logo_relogio{
+	position: fixed !important;
+	width: 100%;
+	text-align: center;
+}
+div#logo_relogio hgroup{
+    color: #a8a8a8;
+	margin-top: -5px
 }
 
 header nav {
@@ -73,7 +81,7 @@ header nav {
   -ms-box-shadow: none;
   -o-box-shadow: none;
   box-shadow: none;
-
+  margin-top: 75px;
   display: block;
   line-height: 00.5em;
   opacity: 1;
@@ -86,10 +94,26 @@ header nav ul li {
   display: block;
   text-align: left;
   width: 100%;
-  line-height:  1em;
+  line-height: 1;
+  transition: all 0.4s;
+}
+header nav ul li ul{
+	margin-left: 10px;
+	display:none;
+	transition: all 0.4s;
+}
+header nav ul li:hover ul{
+	display: block
 }
 
-header nav ul li a {
+
+header .row{
+	margin: 0;
+	margin-bottom: 20px;
+	margin-top: -7px !important;
+}
+
+header nav ul li a, div#logo_relogio *{
   color: #868686;
   font-size: 11px;
   -webkit-transition: 0.4s;
@@ -118,14 +142,13 @@ div#main {
 div#main h1#section-title {
   text-align: center;
   margin-top: 0;
-  padding-top: 25px;
+  padding-top: 70px;
   text-transform: uppercase;
   font-size: 3.3em;
-  font-weight: 700;
   border-bottom: 2px solid rgb(220,220,220);
   width: 90%;
   margin: 0 auto;
-  color: #636363;
+  color: #a8a8a8;
 }
 
 div#main div#content {
@@ -156,4 +179,7 @@ div#main h2 {
     width: calc(100% - 90px);
     margin-left: 90px
   }
+  
+  
+  
 }
