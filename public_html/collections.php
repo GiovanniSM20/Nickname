@@ -15,7 +15,7 @@
   <body>
     <?=get_header() ?>
     <div id="main">
-      <h1 id="section-title">Coleções</h1>
+      
       <div id="content">
 
       </div>

@@ -16,7 +16,7 @@
     <?=get_header() ?>
     <div id="main">
       <div id="content">
-        <h1 id="section-title">Shop</h1>
+        
       </div>
     </div>
     <script src="lib/js/jquery.js"></script>

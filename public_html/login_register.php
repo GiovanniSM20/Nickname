@@ -16,7 +16,7 @@
   <body>
     <?=get_header()?>
     <div id="main">
-      <h1 id="section-title">Login / Registrar-se</h1>
+      
       <div id="content">
 
       </div>
