@@ -15,7 +15,10 @@
   </head>
   <body>
 	<?=get_header()?>
-
+	<aside>
+		<img src="http://66.media.tumblr.com/fc0a5937d87a0147a10b306ec2a599a0/tumblr_o9vd6pdccD1uh71dfo1_1280.gif" />
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/EWcOY14GWwM?autoplay=1&controls=0&disablekb=0&start=35" frameborder="0" allowfullscreen></iframe>
+	</aside>
     <script src="lib/js/jquery.js"></script>
     <script src="lib/js/scripts.js"></script>
   </body>

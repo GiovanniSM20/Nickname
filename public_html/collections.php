@@ -15,9 +15,98 @@
   <body>
     <?=get_header() ?>
     <div id="main">
-      
       <div id="content">
-
+        <div class="item coll-top">
+          <a href="/collections/worts">
+			      <div class="info">
+				      <h1>Coleção Worts</h1>
+			      </div>
+		      </a>
+        </div>
+        <div class="item coll-bottom">
+          <a href="/collections/mirtez">
+			      <div class="info">
+				      <h1>Coleção Mirtez</h1>
+			      </div>
+		      </a>
+        </div>
+        <div class="item coll-top">
+          <a href="/collections/bleifow">
+			      <div class="info">
+				      <h1>Coleção Bleifow</h1>
+			      </div>
+		      </a>
+        </div>
+		<div class="item coll-bottom">
+          <a href="/collections/mirtez">
+			      <div class="info">
+				      <h1>Coleção Mirtez</h1>
+			      </div>
+		      </a>
+        </div>
+        <div class="item coll-top">
+          <a href="/collections/bleifow">
+			      <div class="info">
+				      <h1>Coleção Bleifow</h1>
+			      </div>
+		      </a>
+        </div>
+		<div class="item coll-bottom">
+          <a href="/collections/mirtez">
+			      <div class="info">
+				      <h1>Coleção Mirtez</h1>
+			      </div>
+		      </a>
+        </div>
+        <div class="item coll-top">
+          <a href="/collections/bleifow">
+			      <div class="info">
+				      <h1>Coleção Bleifow</h1>
+			      </div>
+		      </a>
+        </div>
+		<div class="item coll-bottom">
+          <a href="/collections/mirtez">
+			      <div class="info">
+				      <h1>Coleção Mirtez</h1>
+			      </div>
+		      </a>
+        </div>
+        <div class="item coll-top">
+          <a href="/collections/bleifow">
+			      <div class="info">
+				      <h1>Coleção Bleifow</h1>
+			      </div>
+		      </a>
+        </div>
+		<div class="item coll-bottom">
+          <a href="/collections/mirtez">
+			      <div class="info">
+				      <h1>Coleção Mirtez</h1>
+			      </div>
+		      </a>
+        </div>
+        <div class="item coll-top">
+          <a href="/collections/bleifow">
+			      <div class="info">
+				      <h1>Coleção Bleifow</h1>
+			      </div>
+		      </a>
+        </div>
+		<div class="item coll-bottom">
+          <a href="/collections/mirtez">
+			      <div class="info">
+				      <h1>Coleção Mirtez</h1>
+			      </div>
+		      </a>
+        </div>
+        <div class="item coll-top">
+          <a href="/collections/bleifow">
+			      <div class="info">
+				      <h1>Coleção Bleifow</h1>
+			      </div>
+		      </a>
+        </div>
       </div>
     </div>
     <script src="lib/js/jquery.js"></script>
