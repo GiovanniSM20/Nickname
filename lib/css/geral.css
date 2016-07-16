@@ -156,6 +156,20 @@ div#main h2 {
 	text-align: left;
 }
 
+div#message{
+  display: none;
+  color: #fff;
+  width: 100%;
+  margin: 10px auto;
+  padding: 10px;
+  box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+  font-family: Arial, sans-serif;
+  font-size: 1.05em;
+}
+div.error{background-color: rgb(220,100,100); border-left: 4px solid #dd3d36;}
+div.success{background-color: rgb(100,220,100); border-left: 4px solid rgb(100,200,100);}
+
+
 @media screen and (max-width: 1200px) {
     a#menu-mobile{
         display: block;
