@@ -8,7 +8,7 @@
 	<link rel="shortcut icon" href="lib/images/favicon.jpeg" />
 
     <link rel="stylesheet" href="lib/css/materialize.min.css" />
-    <!--<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="lib/css/geral.css" />
     <link rel="stylesheet" href="lib/css/shop.css" />
   </head>

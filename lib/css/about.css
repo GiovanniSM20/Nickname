@@ -4,6 +4,11 @@ header {
   float: left;
 }
 
-#content {
+div#main div#content {
   text-align: justify;
+  left: 50%;
+    transform: translate(-50%);
+    position: absolute;
+    width: calc(40% - 309px);
+	margin: 10px 0;
 }

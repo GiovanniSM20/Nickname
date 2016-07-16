@@ -9,7 +9,7 @@
 	<link rel="shortcut icon" href="lib/images/favicon.jpeg" />
 
     <link rel="stylesheet" href="lib/css/materialize.min.css" />
-    <!--<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="lib/css/geral.css" />
     <link rel="stylesheet" href="lib/css/home.css" />
   </head>
@@ -20,6 +20,7 @@
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/EWcOY14GWwM?autoplay=1&controls=0&disablekb=0&start=35" frameborder="0" allowfullscreen></iframe>
 	</aside>
     <script src="lib/js/jquery.js"></script>
+    <script src="lib/js/materialize.min.js"></script>
     <script src="lib/js/scripts.js"></script>
   </body>
 </html>

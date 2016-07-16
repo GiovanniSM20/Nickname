@@ -4,19 +4,21 @@ header {
   float: left;
 }
 
-#content{
-  position: relative;
-}
-form{
-    left: 50%;
+div#main div#content {
+  text-align: justify;
+  left: 50%;
     transform: translate(-50%);
     position: absolute;
-    width: 90%;
-    text-align: center;
+    width: calc(40% - 309px);
+	margin: 10px 0;
+}
+form{
+    width: 100%;
+    text-align: left;
 }
 .row .col.s6 {
-    width: 90%;
+    width: 100%;
 }
 .row{
-width: 90%
+	width: 100%
 }
