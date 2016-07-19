@@ -5,10 +5,13 @@ header {
 }
 
 div#main div#content {
-  text-align: justify;
+  text-align: center;
   left: 50%;
     transform: translate(-50%);
     position: absolute;
     width: calc(40% - 309px);
 	margin: 10px 0;
+}
+div#main div#content p{
+  text-align: center;
 }

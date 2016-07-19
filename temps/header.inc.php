@@ -1,12 +1,12 @@
 	<div id="logo_relogio">
-	
+
 	<a href="home">
 		<img src="lib/images/nickname.png" />
 	</a>
 	<hgroup>
 		 <time data data-timezone-offset="-14400">
 		 <b id="data"></b>
-		 <span id="time-zone-name">RJ</span>
+		 <span id="time-zone-name"></span>
 		 </time>
 	</hgroup>
 	</div>
@@ -17,7 +17,7 @@
 				<li><a href='collections'>Coleções</a></li>
 		  </div>
 		  <div class="row">
-			<li><a href='login_register'>Login / Registrar-se</a></li>
+			<li><a href='auth'>Login / Registrar-se</a></li>
 				<li><a href='about'>Sobre</a></li>
 				<li><a href='contact'>Contato</a></li>
 				<li><a href='javascript:void()' class="no_effect">Social</a>
@@ -38,7 +38,7 @@
 				<li><a href='collections'>Coleções</a></li>
 		  </div>
 		  <div class="row">
-			<li><a href='login_register'>Login / Registrar-se</a></li>
+			<li><a href='auth'>Login / Registrar-se</a></li>
 				<li><a href='about'>Sobre</a></li>
 				<li><a href='contact'>Contato</a></li>
 				<li><a href='javascript:void()' target="_blank" class="no_effect">Social</a>

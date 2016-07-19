@@ -1,0 +1,12 @@
+body{background: #fff}
+header {
+  margin-left: 0;
+  float: left;
+}
+span.show{
+  color: red;
+  cursor: pointer;
+}
+form#form-register{
+  display: none;
+}
